@@ -1,1 +1,2 @@
 # Train-Reservation-System-Java-Project
+The Train Reservation System Java Project allows users to book, cancel, and view train reservations, managing passenger details and seat availability. It uses Java for backend processing with a focus on object-oriented principles, ensuring efficient data management and transaction handling. The project includes a simple console interface for user interaction and basic error handling.
